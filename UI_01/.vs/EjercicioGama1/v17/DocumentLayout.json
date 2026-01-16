@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Work\\Documents\\C#\\10-WindowsForms\\EjercicioGama1\\",
+  "WorkspaceRootPath": "C:\\Users\\Work\\Documents\\GitHub\\UI_01\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0EB4A9E1-6A80-4086-8173-110413C0CDAA}|EjercicioGama1.csproj|c:\\users\\work\\documents\\c#\\10-windowsforms\\ejerciciogama1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{0EB4A9E1-6A80-4086-8173-110413C0CDAA}|EjercicioGama1.csproj|c:\\users\\work\\documents\\github\\ui_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0EB4A9E1-6A80-4086-8173-110413C0CDAA}|EjercicioGama1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0EB4A9E1-6A80-4086-8173-110413C0CDAA}|EjercicioGama1.csproj|c:\\users\\work\\documents\\c#\\10-windowsforms\\ejerciciogama1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{0EB4A9E1-6A80-4086-8173-110413C0CDAA}|EjercicioGama1.csproj|C:\\Users\\Work\\Documents\\GitHub\\UI_01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{0EB4A9E1-6A80-4086-8173-110413C0CDAA}|EjercicioGama1.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -24,11 +24,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Work\\Documents\\C#\\10-WindowsForms\\EjercicioGama1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\UI_01\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Work\\Documents\\C#\\10-WindowsForms\\EjercicioGama1\\Form1.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\UI_01\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAwwC4AAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAABcAAAAAAAAAAAA/wC4AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-12-09T15:23:40.396Z",
               "EditorCaption": ""
@@ -37,13 +37,12 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Work\\Documents\\C#\\10-WindowsForms\\EjercicioGama1\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\UI_01\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\Work\\Documents\\C#\\10-WindowsForms\\EjercicioGama1\\Form1.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\C#\\10-WindowsForms\\EjercicioGama1\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-09T15:15:29.484Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-12-09T15:15:29.484Z"
             }
           ]
         }
