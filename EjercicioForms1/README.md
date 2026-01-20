@@ -20,6 +20,11 @@ de lo contrario, el estudiante será considerado reprobado.
 Finalmente, el formulario deberá mostrar el promedio, la nota del completivo (si aplica),
 la nota del extraordinario (si aplica) y el estado final del estudiante.
 
+![Captura del proyecto](IMAGENES/captura1.png)
+![Captura del proyecto](IMAGENES/captura2.png)
+![Captura del proyecto](IMAGENES/captura3.png)
+![Captura del proyecto](IMAGENES/captura4.png)
+
 Hecho 100% con C#.
 
 Para usar este programa, simplemente ingrese las cuatro notas, en base al promedio,
