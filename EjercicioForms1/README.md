@@ -20,10 +20,11 @@ de lo contrario, el estudiante será considerado reprobado.
 Finalmente, el formulario deberá mostrar el promedio, la nota del completivo (si aplica),
 la nota del extraordinario (si aplica) y el estado final del estudiante.
 
-![Captura del proyecto](https://github.com/francienmanuel5tod2-student/Trabajos-5to-d2/blob/main/EjercicioForms1/IMAGENES/Captura1.png)
-![Captura del proyecto](IMAGENES/captura2.png)
-![Captura del proyecto](IMAGENES/captura3.png)
-![Captura del proyecto](IMAGENES/captura4.png)
+![Captura del proyecto](EjercicioForms1/IMAGENES/Captura1.png)
+![Captura del proyecto](EjercicioForms1/IMAGENES/Captura2.png)
+![Captura del proyecto](EjercicioForms1/IMAGENES/Captura3.png)
+![Captura del proyecto](EjercicioForms1/IMAGENES/Captura4.png)
+
 
 Hecho 100% con C#.
 
