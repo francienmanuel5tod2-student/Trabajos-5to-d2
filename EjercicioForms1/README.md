@@ -1,6 +1,5 @@
-Franci E Gonzalez G | 5to D2 | #8
+Ejercicio de calificacion de estudiantes(Ejercicio 7):
 
-Ejercicio 7: 
 Diseñar un formulario que permita registrar las cuatro notas de un estudiante y calcular su promedio.
 El promedio se obtendrá sumando las cuatro notas y dividiéndolas entre cuatro.
 
@@ -19,5 +18,18 @@ Si la nota del extraordinario es mayor a 69, el estudiante será considerado apr
 de lo contrario, el estudiante será considerado reprobado.
 
 Finalmente, el formulario deberá mostrar el promedio, la nota del completivo (si aplica),
- la nota del extraordinario (si aplica) y el estado final del estudiante.
+la nota del extraordinario (si aplica) y el estado final del estudiante.
+
+Hecho 100% con C#.
+
+Para usar este programa, simplemente ingrese las cuatro notas, en base al promedio,
+se hara el resto del proceso explicado previamente.
+
+Nivel: Secundaria Técnico Profesional  - 
+Módulo Formativo: Informatica
+Curso / Sección: 5to D2
+Año escolar: 2025 - 2026
+Autor: Franci Enmanuel Gonzalez Guerrero
+
+
 
