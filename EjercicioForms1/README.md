@@ -20,11 +20,10 @@ de lo contrario, el estudiante será considerado reprobado.
 Finalmente, el formulario deberá mostrar el promedio, la nota del completivo (si aplica),
 la nota del extraordinario (si aplica) y el estado final del estudiante.
 
-![Captura del proyecto](EjercicioForms1/IMAGENES/Captura1.png)
-![Captura del proyecto](EjercicioForms1/IMAGENES/Captura2.png)
-![Captura del proyecto](EjercicioForms1/IMAGENES/Captura3.png)
-![Captura del proyecto](EjercicioForms1/IMAGENES/Captura4.png)
-
+![Captura del proyecto](IMAGENES/Captura1.png)
+![Captura del proyecto](IMAGENES/Captura2.png)
+![Captura del proyecto](IMAGENES/Captura3.png)
+![Captura del proyecto](IMAGENES/Captura4.png)
 
 Hecho 100% con C#.
 
