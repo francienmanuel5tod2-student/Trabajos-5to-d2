@@ -25,7 +25,13 @@ la nota del extraordinario (si aplica) y el estado final del estudiante.
 <img width="397" height="211" alt="Captura3" src="https://github.com/user-attachments/assets/1fba3119-66d1-48e7-b743-5eeb70e83faf" />
 <img width="394" height="212" alt="Captura4" src="https://github.com/user-attachments/assets/db9c8546-6961-4fe2-8cf6-39052936e242" />
 
-Hecho 100% con C#.
+Herramientas utilizadas:
+
+C#
+
+.NET Framework
+
+Visual Studio 2022
 
 Para usar este programa, simplemente ingrese las cuatro notas, en base al promedio,
 se hara el resto del proceso explicado previamente.
