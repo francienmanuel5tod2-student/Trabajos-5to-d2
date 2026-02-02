@@ -85,7 +85,7 @@ namespace Ejercicio7
             labelNC.Visible = false;
             labelNE.Visible = false;
             buttonEnviar.Enabled = true;
-            buttonEnviar2.Enabled = true;
+            buttonEnviar2.Enabled =true;
             buttonEnviar3.Enabled = true;
         }
 
