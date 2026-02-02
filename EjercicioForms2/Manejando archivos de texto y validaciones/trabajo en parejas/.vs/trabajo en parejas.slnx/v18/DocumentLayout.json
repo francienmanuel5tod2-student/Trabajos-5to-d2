@@ -1,0 +1,98 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\Manejando archivos de texto y validaciones\\trabajo en parejas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9AED8F1D-9BCA-B73F-983F-FEDE1D151ED8}|trabajo en parejas.csproj|c:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\manejando archivos de texto y validaciones\\trabajo en parejas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AED8F1D-9BCA-B73F-983F-FEDE1D151ED8}|trabajo en parejas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AED8F1D-9BCA-B73F-983F-FEDE1D151ED8}|trabajo en parejas.csproj|C:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\Manejando archivos de texto y validaciones\\trabajo en parejas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9AED8F1D-9BCA-B73F-983F-FEDE1D151ED8}|trabajo en parejas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AED8F1D-9BCA-B73F-983F-FEDE1D151ED8}|trabajo en parejas.csproj|c:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\manejando archivos de texto y validaciones\\trabajo en parejas\\obj\\debug\\net10.0-windows\\trabajo en parejas.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AED8F1D-9BCA-B73F-983F-FEDE1D151ED8}|trabajo en parejas.csproj|solutionrelative:obj\\debug\\net10.0-windows\\trabajo en parejas.globalusings.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 378,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\18\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAAP8UAAAAAAAAAAAgwAwVAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-01-30T09:30:22.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "trabajo en parejas.GlobalUsings.g.cs",
+              "DocumentMoniker": "C:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\Manejando archivos de texto y validaciones\\trabajo en parejas\\obj\\Debug\\net10.0-windows\\trabajo en parejas.GlobalUsings.g.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net10.0-windows\\trabajo en parejas.GlobalUsings.g.cs",
+              "ToolTip": "C:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\Manejando archivos de texto y validaciones\\trabajo en parejas\\obj\\Debug\\net10.0-windows\\trabajo en parejas.GlobalUsings.g.cs",
+              "RelativeToolTip": "obj\\Debug\\net10.0-windows\\trabajo en parejas.GlobalUsings.g.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T04:09:31.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\Manejando archivos de texto y validaciones\\trabajo en parejas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\Manejando archivos de texto y validaciones\\trabajo en parejas\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:18:05.382Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\Manejando archivos de texto y validaciones\\trabajo en parejas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\visual studio comunity codes\\desarrollo de aplicaciones\\trabajo en pareja\\trabajo 1\\Manejando archivos de texto y validaciones\\trabajo en parejas\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T16:11:09.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 22,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
