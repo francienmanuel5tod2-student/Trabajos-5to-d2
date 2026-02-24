@@ -10,7 +10,7 @@ C#
 
 .NET Framework
 
-Visual Studio 2026
+Visual Studio community 2026
 
 Imágenes de la ejecución del proyecto:
 
@@ -47,8 +47,6 @@ Nivel: Secundaria Técnico Profesional
 Módulo Formativo:Desarrollo de aplicaciones
 
 Curso / Sección:5to-D2
-
-Año escolar:5to de secundaria
 
 Autores: Yadiel Tavarez Rosario y Franci Enmanuel Gonzalez Guerrero
 
