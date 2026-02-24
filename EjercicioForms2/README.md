@@ -29,7 +29,7 @@ Clonar el repositorio desde GitHub
 
 bash:
 
-git clone https://github.com/Yadieltavarezd2/Manejando-archivos-de-texto-y-validaciones.git
+git clone https://github.com/francienmanuel5tod2-student/Trabajos-5to-d2/tree/main/EjercicioForms2
 
 
 Abrir el archivo .sln en Visual Studio
