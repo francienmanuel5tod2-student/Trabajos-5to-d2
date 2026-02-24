@@ -1,0 +1,12 @@
+C:\Users\Work\Documents\GitHub\SistemaVentas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Work\Documents\GitHub\SistemaVentas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Work\Documents\GitHub\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\GitHub\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\GitHub\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Work\Documents\GitHub\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.pdb
+C:\Users\Work\Documents\SistemaVentas\CapaEntidades\bin\Debug\CapaEntidades.dll
+C:\Users\Work\Documents\SistemaVentas\CapaEntidades\bin\Debug\CapaEntidades.pdb
+C:\Users\Work\Documents\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.AssemblyReference.cache
+C:\Users\Work\Documents\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+C:\Users\Work\Documents\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.dll
+C:\Users\Work\Documents\SistemaVentas\CapaEntidades\obj\Debug\CapaEntidades.pdb

@@ -1,0 +1,322 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|c:\\users\\work\\documents\\github\\trabajofinalra2\\capapresentacion\\reportes\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formventas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D48A16C-E5B9-400D-8188-4DFB0983F646}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capadatos\\ventasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D48A16C-E5B9-400D-8188-4DFB0983F646}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\ventasdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D48A16C-E5B9-400D-8188-4DFB0983F646}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capadatos\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D48A16C-E5B9-400D-8188-4DFB0983F646}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D48A16C-E5B9-400D-8188-4DFB0983F646}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capadatos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D48A16C-E5B9-400D-8188-4DFB0983F646}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D48A16C-E5B9-400D-8188-4DFB0983F646}|CapaDatos\\CapaDatos.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capadatos\\clientesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D48A16C-E5B9-400D-8188-4DFB0983F646}|CapaDatos\\CapaDatos.csproj|solutionrelative:capadatos\\clientesdal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formreportedefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formreportedefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formreportedefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formreportedefactura.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90524D37-2C6E-41DB-977A-B8DA2E222C59}|CapaEntidades\\CapaEntidades.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capaentidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90524D37-2C6E-41DB-977A-B8DA2E222C59}|CapaEntidades\\CapaEntidades.csproj|solutionrelative:capaentidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\formreportedefactura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\formreportedefactura.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\capapresentacion\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD4F2509-5217-49FC-B80F-C5C353E47BBC}|CapaPresentacion\\CapaPresentacion.csproj|solutionrelative:capapresentacion\\reportes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 101,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 232,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\packages.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\packages.config",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\packages.config",
+              "RelativeToolTip": "CapaPresentacion\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-20T13:08:00.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\Reportes\\Report1.rdlc",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\Reportes\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "CapaPresentacion\\Reportes\\Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-02-20T12:49:15.985Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientesDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaDatos\\ClientesDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ClientesDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaDatos\\ClientesDAL.cs",
+              "RelativeToolTip": "CapaDatos\\ClientesDAL.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-10T14:45:48.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormVentas.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\SistemaVentas\\CapaPresentacion\\FormVentas.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\SistemaVentas\\CapaPresentacion\\FormVentas.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:09:33.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormVentas.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormVentas.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormVentas.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormVentas.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormVentas.cs",
+              "ViewState": "AgIAAKwAAAAAAAAAAAAwwCgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:09:37.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormCategoria.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormCategoria.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\SistemaVentas\\CapaPresentacion\\FormCategoria.cs [Design]",
+              "RelativeToolTip": "..\\..\\SistemaVentas\\CapaPresentacion\\FormCategoria.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T15:25:10.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VentasDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaDatos\\VentasDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\VentasDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaDatos\\VentasDAL.cs",
+              "RelativeToolTip": "CapaDatos\\VentasDAL.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAYwFYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:44:55.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaDatos\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaDatos\\ProductoDAL.cs",
+              "RelativeToolTip": "CapaDatos\\ProductoDAL.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAIgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:30:16.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\App.config",
+              "RelativeDocumentMoniker": "CapaPresentacion\\App.config",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\App.config",
+              "RelativeToolTip": "CapaPresentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-02-20T12:34:17.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaDatos\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDatos\\CategoriaDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaDatos\\CategoriaDAL.cs",
+              "RelativeToolTip": "CapaDatos\\CategoriaDAL.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAAAiwE8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-20T12:35:20.371Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormCategoria.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormCategoria.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormCategoria.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormCategoria.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormCategoria.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAewDUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T11:44:15.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormProductos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\SistemaVentas\\CapaPresentacion\\FormProductos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\SistemaVentas\\CapaPresentacion\\FormProductos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:26:03.988Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "FormProductos.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormProductos.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormProductos.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormProductos.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormProductos.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAywHUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:26:08.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FormReporteDeFactura.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormReporteDeFactura.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormReporteDeFactura.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\SistemaVentas\\CapaPresentacion\\FormReporteDeFactura.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\SistemaVentas\\CapaPresentacion\\FormReporteDeFactura.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-18T13:23:00.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "FormReporteDeFactura.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormReporteDeFactura.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormReporteDeFactura.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormReporteDeFactura.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormReporteDeFactura.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAkwBcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:38:09.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaEntidades\\Producto.cs",
+              "RelativeDocumentMoniker": "CapaEntidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaEntidades\\Producto.cs",
+              "RelativeToolTip": "CapaEntidades\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-09T22:40:31.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Reportes.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\Reportes.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\Reportes.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\Reportes.cs",
+              "RelativeToolTip": "CapaPresentacion\\Reportes.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwCYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T13:40:02.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FormReporteDeFactura.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormReporteDeFactura.Designer.cs",
+              "RelativeDocumentMoniker": "CapaPresentacion\\FormReporteDeFactura.Designer.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\TrabajoFinalRA2\\CapaPresentacion\\FormReporteDeFactura.Designer.cs",
+              "RelativeToolTip": "CapaPresentacion\\FormReporteDeFactura.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T16:38:25.526Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
