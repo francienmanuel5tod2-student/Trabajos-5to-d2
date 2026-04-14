@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|c:\\users\\work\\documents\\github\\proyectofinalra3\\capa_presentacion\\reportes\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\reportes\\report1.rdlc||{46F6D2A1-5E86-4080-A799-01F3D0E23796}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formmovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formmovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formmovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formmovimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formreportemovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formreportemovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formcategoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formreportemovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formreportemovimientos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capadato\\movimientodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\movimientodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capadato\\reportedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\reportedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capadato\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\conexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capadato\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\usuariodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capadato\\proveedordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\proveedordal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capadato\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capadato\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capadato\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1ECA1481-70FB-4D0F-A01A-DB9DC10CBCCB}|CapaDato\\CapaDato.csproj|solutionrelative:capadato\\clientedal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\formproducto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\forminiciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\forminiciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\forminiciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\forminiciodesesion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\capa_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E70E393F-2030-425A-AC03-6AB36764B93C}|Capa_Presentacion\\Capa_Presentacion.csproj|solutionrelative:capa_presentacion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 232,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3fd5e0cc-709a-4f8c-94c3-7f0f8dff5bb2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormPrincipal.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\FormPrincipal.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:35:17.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FormMovimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormMovimiento.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormMovimiento.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormMovimiento.cs",
+              "RelativeToolTip": "Capa_Presentacion\\FormMovimiento.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAADIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:57:20.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Report1.rdlc [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\Reportes\\Report1.rdlc",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\Reportes\\Report1.rdlc",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\Reportes\\Report1.rdlc [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\Reportes\\Report1.rdlc [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001755|",
+              "WhenOpened": "2026-03-25T17:10:17.908Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormPrincipal.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormPrincipal.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormPrincipal.cs",
+              "RelativeToolTip": "Capa_Presentacion\\FormPrincipal.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-08T13:35:19.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormMovimiento.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormMovimiento.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormMovimiento.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormMovimiento.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\FormMovimiento.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:50:29.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FormCategoria.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormCategoria.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormCategoria.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormCategoria.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\FormCategoria.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T16:47:43.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormProducto.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormProducto.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormProducto.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormProducto.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\FormProducto.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:16:21.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormReporteMovimientos.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormReporteMovimientos.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormReporteMovimientos.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormReporteMovimientos.cs",
+              "RelativeToolTip": "Capa_Presentacion\\FormReporteMovimientos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:29:56.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FormReporteMovimientos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormReporteMovimientos.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormReporteMovimientos.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormReporteMovimientos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\FormReporteMovimientos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:39:36.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MovimientoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\MovimientoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\MovimientoDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\MovimientoDAL.cs",
+              "RelativeToolTip": "CapaDato\\MovimientoDAL.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAgwI8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:23:58.966Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FormConsulta.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormConsulta.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormConsulta.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormConsulta.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\FormConsulta.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:38:58.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FormConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormConsulta.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormConsulta.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormConsulta.cs",
+              "RelativeToolTip": "Capa_Presentacion\\FormConsulta.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAwwFYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:42:27.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ReporteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\ReporteDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\ReporteDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\ReporteDAL.cs",
+              "RelativeToolTip": "CapaDato\\ReporteDAL.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:30:43.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Conexion.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\Conexion.cs",
+              "RelativeDocumentMoniker": "CapaDato\\Conexion.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\Conexion.cs",
+              "RelativeToolTip": "CapaDato\\Conexion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:23:52.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\App.config",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\App.config",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\App.config",
+              "RelativeToolTip": "Capa_Presentacion\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-03-25T15:31:29.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UsuarioDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\UsuarioDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\UsuarioDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\UsuarioDAL.cs",
+              "RelativeToolTip": "CapaDato\\UsuarioDAL.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:30:55.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProveedorDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\ProveedorDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\ProveedorDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\ProveedorDAL.cs",
+              "RelativeToolTip": "CapaDato\\ProveedorDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:30:25.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\CategoriaDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CategoriaDAL.cs",
+              "RelativeToolTip": "CapaDato\\CategoriaDAL.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:23:36.326Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\ProductoDAL.cs",
+              "RelativeToolTip": "CapaDato\\ProductoDAL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:18:09.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClienteDAL.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\ClienteDAL.cs",
+              "RelativeDocumentMoniker": "CapaDato\\ClienteDAL.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\ClienteDAL.cs",
+              "RelativeToolTip": "CapaDato\\ClienteDAL.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:29:12.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "FormProducto.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormProducto.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormProducto.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormProducto.cs",
+              "RelativeToolTip": "Capa_Presentacion\\FormProducto.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAowJwAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T15:16:37.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "FormInicioDeSesion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormInicioDeSesion.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormInicioDeSesion.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormInicioDeSesion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Capa_Presentacion\\FormInicioDeSesion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:48:39.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FormInicioDeSesion.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormInicioDeSesion.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\FormInicioDeSesion.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\FormInicioDeSesion.cs",
+              "RelativeToolTip": "Capa_Presentacion\\FormInicioDeSesion.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:48:42.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\Program.cs",
+              "RelativeDocumentMoniker": "Capa_Presentacion\\Program.cs",
+              "ToolTip": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\Capa_Presentacion\\Program.cs",
+              "RelativeToolTip": "Capa_Presentacion\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-24T19:44:29.377Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 332,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

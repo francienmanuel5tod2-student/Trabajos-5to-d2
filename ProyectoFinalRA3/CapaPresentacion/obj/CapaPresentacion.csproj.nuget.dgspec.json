@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaPresentacion\\CapaPresentacion.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CapaDato.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CapaDato.csproj",
+        "projectName": "CapaDato",
+        "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CapaDato.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj": {
+                "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaNegocios\\CapaNegocios.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaNegocios\\CapaNegocios.csproj",
+        "projectName": "CapaNegocios",
+        "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaNegocios\\CapaNegocios.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {
+              "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CapaDato.csproj": {
+                "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CapaDato.csproj"
+              },
+              "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj": {
+                "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    },
+    "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaPresentacion\\CapaPresentacion.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaPresentacion\\CapaPresentacion.csproj",
+        "projectName": "CapaPresentacion",
+        "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaPresentacion\\CapaPresentacion.csproj",
+        "packagesPath": "C:\\Users\\Work\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaPresentacion\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Work\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CapaDato.csproj": {
+                "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaDato\\CapaDato.csproj"
+              },
+              "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaNegocios\\CapaNegocios.csproj": {
+                "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\CapaNegocios\\CapaNegocios.csproj"
+              },
+              "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj": {
+                "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "Microsoft.Data.SqlClient": {
+              "target": "Package",
+              "version": "[6.1.4, )"
+            },
+            "Microsoft.Data.SqlClient.SNI.runtime": {
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj",
+        "projectName": "CapaEntidades",
+        "projectPath": "C:\\Users\\Work\\Documents\\GitHub\\ProyectoFinalRA3\\ClassLibrary1\\CapaEntidades.csproj",
+        "UsingMicrosoftNETSdk": false,
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {}
+      }
+    }
+  }
+}
